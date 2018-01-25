@@ -27,5 +27,5 @@ printf("%d ", i);
 n=0;
 result=0;
 }
-return 0;
+  return 0;
 }
